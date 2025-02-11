@@ -23,7 +23,7 @@ Aprender a usar novas ferramentas tools.
 <h2 id=installation>:clipboard: Instalação</h2>
 
 1. Copie o repositorio.
-2. Instale no seu Visual Studio code.
+2. Instale no seu Visual Studio Code.
 
 <h2 id=technology>:toolbox: Tecnologia</h2>
 
